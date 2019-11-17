@@ -24,8 +24,10 @@ For users to lose weight, gain weight, or simply live a healthy life
 
 * Node
 * mySQL
-* Javascritp / jquery
-* Handlebars
+* Javascript
+* jQuery
+* Express 
+* Express Handlebars
 * Sequelize
 * Materialize
 
