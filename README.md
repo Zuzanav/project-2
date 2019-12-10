@@ -17,9 +17,6 @@ For users to lose weight, gain weight, or simply live a healthy life
 
 * https://gitfitapp.herokuapp.com/
 
-(insert screenshots here maybe)
-
-
 ## Built with
 
 * Node
